@@ -1,0 +1,7 @@
+# ninja log v5
+1	7	0	clean	80ab3577de22d3b4
+0	60	1681597466955026298	build.ninja	c54129aa8d9c49c1
+1	9	1681597477140875490	gametest.app/Contents/Resources/AppIcon.icns	136c4454f016f1dc
+0	9	1681597477141237983	gametest.app/Contents/Resources/arial.ttf	28bc51c077b65d77
+9	124	1681597477254151076	CMakeFiles/gametest.dir/main.c.o	71dfc2fe8d214810
+124	157	1681597477288521773	gametest.app/Contents/MacOS/gametest	b47aac9380a2116a
